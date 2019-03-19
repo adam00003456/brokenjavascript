@@ -1,5 +1,5 @@
 class brokenjavascript {
-  var date = "";
+  var date = "x";
   constructor(date) {
     this.date=date;
   }
